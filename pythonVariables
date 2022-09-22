@@ -2,13 +2,6 @@
 Project = "Gofetch"
 print(Project)  
 
-#  Declaring multiple variable
-Project = "Gofetch"
-print(Project)
- 
-Project ="lisners"
-print(Project)
-
 #variables for same value
 
 a=b=c= "same"
