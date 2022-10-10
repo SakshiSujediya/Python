@@ -12,4 +12,4 @@ for i in range (n):
         print(" ",end="")
     for k in range(n-i):
         print("* ",end="")
-    print("\r")6
+    print("\r")
